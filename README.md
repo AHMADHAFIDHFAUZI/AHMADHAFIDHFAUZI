@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ahmad Hafidh Fauzi 👋
 
-<!--
-**AHMADHAFIDHFAUZI/AHMADHAFIDHFAUZI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatic Engineer Student  
+💻 Aspiring Software Engineer & Technopreneur  
+🤖 Interested in Machine Learning & Artificial Intelligence  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Java
+- Frameworks: Spring Boot  
+- Tools: Git and VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goals
+- Learning Java and building projects from scratch  
+- Becoming more productive and consistent  
+- Exploring entrepreneurship in tech  
+
+## 📫 Contact
+- GitHub: [AHMADHAFIDHFAUZI](https://github.com/AHMADHAFIDHFAUZI)  
+- Email: ahmadhafidh.fauzi@gmail.com
